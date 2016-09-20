@@ -43,7 +43,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <!--Script for smooth scrolling begins here.-->
 <script>
 $(function() {
-  $('a[href*="#"]:not([href="#"])').click(function() {
+ 
+    $('a[href*="#"]:not([href="#"]), input[type="button"][value="btn"]').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
       var target = $(this.hash);
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
@@ -91,7 +92,7 @@ $(function() {
     </p></center>
 
 <form method="get" action="#work">
-  <button class="w3-btn w3-padding-16 w3-large w3-margin-top" type="submit">Our Work</button>
+  <button class="w3-btn w3-padding-16 w3-large w3-margin-top" type="submit">LEARN MORE</button>
 </form>
     
 </div>
