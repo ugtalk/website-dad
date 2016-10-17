@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-        <title>Gupta and Associates | Architects | Kanpur</title>
+        <title>Architects | Gupta and Associates | Kanpur</title>
             
  
         <?php include '\common1.php'; ?>
@@ -16,7 +16,7 @@
           <center><p class="w3-xlarge background-h2">ARCHITECTS, INTERIOR DESIGNERS AND PLANNERS
               WITH 30+ YEARS OF EXPERIENCE</p></center>
           <center><p class="w3-xlarge-slight background-h3">
-            HOMES, FACTORIES, APARTMENTS, SHOPS, SCHOOLS, RESTAURANT, PLACE OF WORSHIP, MALLS,...
+            HOMES, FACTORIES, APARTMENTS, SHOPS, SCHOOLS, RESTAURANT, PLACES OF WORSHIP, MALLS,...
             </p></center>
 
           <a href="#work" class="w3-btn w3-padding-16 w3-large w3-margin-top">LEARN MORE</a>
@@ -54,7 +54,7 @@
               <h1>ABOUT US</h1>
 
               <p class="w3-text-grey">Gupta And Associates is run by architects Raj Deep Gupta and Shashi Gupta.</p>
-              <p class="w3-text-grey">Architect R. D. Gupta is a graduate of IIT Kharagpur (1979) and architect Shashi Gupta graduated from MSU Baroda (1983).
+              <p class="w3-text-grey">Architect R. D. Gupta is a graduate of IIT Kharagpur (1979) and Shashi Gupta graduated from MSU Baroda (1983).
               </p>
               <p class="w3-text-grey">Together, the two of them have a combined experience of more than fifty years in architecture and interior design with hundreds of projects under their belt, in and outside the city.</p>
               <img src="images/architect_kanpur_raj_deep_gupta.jpg" height="150px"><img src="images/architect_kanpur_shashi_gupta.jpg" height="150px">
@@ -76,7 +76,5 @@
             }
         }
         </script>
-
-
     </body>
 </html>
